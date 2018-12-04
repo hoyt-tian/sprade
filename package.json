@@ -1,6 +1,6 @@
 {
   "name": "sprade",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "description": "scaffod for general mobile development",
   "main": "index.js",
   "scripts": {
@@ -23,5 +23,8 @@
     "handlebars": "^4.0.12",
     "log-symbols": "^2.2.0",
     "ora": "^3.0.0"
+  },
+  "bin": {
+    "sprade": "index.js"
   }
 }
